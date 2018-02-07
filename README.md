@@ -1,2 +1,4 @@
 # hello-world
-first project in github
+Mój pierwszy projekcik na Dzit Hub :)
+I zaraz zrobiumy pul request
+
